@@ -3,3 +3,4 @@ I want this to go into commit 2 master
 changed by pratyush
 this is changed now
 this is from master
+this is added at bug fix
